@@ -16,6 +16,7 @@ body {
   align-items: center;
   background: #392222;
   position: fixed;
+  z-index: 2;
   top: 10px;
   width: 100%;
   min-height: 75px;
